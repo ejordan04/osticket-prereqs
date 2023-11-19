@@ -72,6 +72,21 @@ Install and setup MySQL with Typical Setup and Standard Configuration then creat
 </p>
 <p>
 
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 Install osTicket and enable these extensions: php_imap.dll, php_intl.dll, and php_opcache.dll. Navigate to ost-config.php located in C:\inetpub\wwwroot\osTicket\include\ost-config.php. Configure its permissions to Everyone. After that, continue setting up osTicket in the browser. When finished click "Install Now!".
 </p>
 <br />
