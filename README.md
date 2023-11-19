@@ -35,7 +35,7 @@ Open the control panel by using the Windows search bar then click Programs/Turn 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NtQTh5N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now we need to install the Web platform installer along with other various files such as the PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi), Rewrite Module (rewrite_amd64_en-US.msi), and PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip).
