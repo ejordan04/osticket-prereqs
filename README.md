@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/V8VmBq2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Type control panel in the windows search bar then click programs/turn windows features on or off/
