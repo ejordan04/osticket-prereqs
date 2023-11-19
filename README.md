@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-Open the control panel by using the Windows search bar then click Programs/Turn Windows features on or off/Internet Information Services. Next, make sure IIS Management Console has a checkmark (Located under Web Management Tools). Finally, enable CGI and Common HTTP Features located under World Wide Web Services/Application Development Features. 
+Open the control panel by using the Windows search bar then click Programs\Turn Windows features on or off\Internet Information Services. Next, make sure IIS Management Console has a checkmark (Located under Web Management Tools). Finally, enable CGI and Common HTTP Features located under World Wide Web Services\Application Development Features. 
 </p>
 <br />
 
@@ -67,20 +67,6 @@ Install and setup MySQL with Typical Setup and Standard Configuration then creat
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/ZwfgomO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-<p>
-<img src="https://i.imgur.com/kbUsbIF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-<p>
-<img src="https://i.imgur.com/Z43bw9K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
 <p>
 <img src="https://i.imgur.com/3RWdApe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
