@@ -68,22 +68,22 @@ Install and setup MySQL with Typical Setup and Standard Configuration then creat
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZwfgomO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kbUsbIF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z43bw9K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3RWdApe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
