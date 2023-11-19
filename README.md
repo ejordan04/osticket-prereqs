@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/V8VmBq2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Type control panel in the windows search bar then click programs/turn windows features on or off/
+Open the control panel by using the Windows search bar then click Programs/Turn Windows features on or off/Internet Information Services. Next, make sure IIS Management Console has a checkmark (Located under Web Management Tools).
 </p>
 <br />
 
