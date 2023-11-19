@@ -26,10 +26,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
+<img src="https://i.imgur.com/Eg8S3ni.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
 <img src="https://i.imgur.com/V8VmBq2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open the control panel by using the Windows search bar then click Programs/Turn Windows features on or off/Internet Information Services. Next, make sure IIS Management Console has a checkmark (Located under Web Management Tools).
+Open the control panel by using the Windows search bar then click Programs/Turn Windows features on or off/Internet Information Services. Next, make sure IIS Management Console has a checkmark (Located under Web Management Tools). Finally, enable CGI and Common HTTP Features located under World Wide Web Services/Application Development Features. 
 </p>
 <br />
 
